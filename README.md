@@ -18,7 +18,7 @@ Repackage disneyplus uwp based on 1.62.8.0, modify the version number to bypass 
 
 3. Double-click the ```appx``` installation package to install.
 
-## How to package by yourself
+## How to repackage by yourself
 
 See [this issue](https://github.com/JasonWei512/NetEase-Cloud-Music-UWP-Repack/issues/3#issuecomment-636415035)
 
