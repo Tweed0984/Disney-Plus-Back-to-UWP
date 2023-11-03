@@ -6,7 +6,7 @@ Repackage disneyplus uwp based on 1.62.8.0, modify the version number to bypass 
 
 [click here](https://github.com/Tweed0984/disneyplus-uwp-repack-BFU/releases/download/repack/disneyplus_uwp_repack_BFU.appx)
 
-## Install
+## How to install
 
 1. Right-click the ```appx``` installation package, click Properties, and switch to the "Digital Signature" tab. Double-click "卢苏" in the signature list. In the pop-up "Digital Signature Details" window, click "View Certificate" and then click "Install Certificate".
 
