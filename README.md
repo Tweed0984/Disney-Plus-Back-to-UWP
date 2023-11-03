@@ -20,7 +20,7 @@ Repackage disneyplus uwp based on 1.62.8.0, modify the version number to bypass 
 
 ## How to repackage by yourself
 
-See [this issue](https://github.com/JasonWei512/NetEase-Cloud-Music-UWP-Repack/issues/3#issuecomment-636415035)
+If you need to make your own repackage, see [this issue](https://github.com/JasonWei512/NetEase-Cloud-Music-UWP-Repack/issues/3#issuecomment-636415035). This part is not necessary.
 
 ## Reference
 
