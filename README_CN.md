@@ -20,7 +20,7 @@
 
 ## 如何自行打包
 
-见[此issue](https://github.com/JasonWei512/NetEase-Cloud-Music-UWP-Repack/issues/3#issuecomment-636415035)
+如果你需要制作自己的重新打包，见[此issue](https://github.com/JasonWei512/NetEase-Cloud-Music-UWP-Repack/issues/3#issuecomment-636415035)。这部分不是必须的。
 
 ## 参考
 
