@@ -14,7 +14,7 @@ Repackage disneyplus uwp based on 1.62.8.0, modify the version number to bypass 
 
 - Select "Local Computer" for "Storage Location" and click next. (Requires consent to UAC permission request)
 
-- Select "Place all certificates in the following storage", click "Browse", select "Trusted Root Certification Authority", confirm, next step, continue to complete the certificate import.
+- Select "Place all certificates in the following storage", click "Browse", select "Trusted Root Certification Authorities", confirm, next step, continue to complete the certificate import.
 
 3. Double-click the ```appx``` installation package to install.
 
