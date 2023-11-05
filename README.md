@@ -1,6 +1,6 @@
 ## Introduction (中文说明[见此](https://github.com/Tweed0984/disneyplus-uwp-repack-BFU/blob/main/README_CN.md))
 
-Repackage disney plus uwp based on 1.62.8.0, modify the version number to bypass forced update.
+Repackage Disney Plus UWP based on 1.62.8.0, modify the version number to bypass forced update.
 
 ## Download
 
