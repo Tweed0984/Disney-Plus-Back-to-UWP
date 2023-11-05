@@ -4,7 +4,7 @@ Repackage Disney Plus UWP based on 1.62.8.0, modify the version number to bypass
 
 ## Download
 
-[click here](https://github.com/Tweed0984/disneyplus-uwp-repack-BFU/releases/download/repack/disneyplus_uwp_repack_BFU.appx)
+[click here](https://github.com/Tweed0984/Disney-Plus-Back-to-UWP/releases/download/Repackage/DisneyPlus_UWP_Repack_BFU.appx)
 
 ## How to install
 
