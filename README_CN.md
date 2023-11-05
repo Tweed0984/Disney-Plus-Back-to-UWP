@@ -4,7 +4,7 @@
 
 ## 下载
 
-[下载地址](https://github.com/Tweed0984/disneyplus-uwp-repack-BFU/releases/download/repack/disneyplus_uwp_repack_BFU.appx)
+[下载地址](https://github.com/Tweed0984/Disney-Plus-Back-to-UWP/releases/download/Repackage/DisneyPlus_UWP_Repack_BFU.appx)
 
 ## 如何安装
 
